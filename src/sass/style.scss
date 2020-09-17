@@ -1,0 +1,25 @@
+//Abstract
+@import "abstract/constants";
+@import "abstract/placeholders";
+@import "abstract/mixins";
+
+//Base 
+@import "base/normalize";
+
+@import "base/base";
+@import "base/logo";
+@import "base/icons";
+@import "base/figures";
+
+// Layouts
+@import "layouts/wrapper";
+@import "layouts/columns";
+
+// Components
+@import "components/education.scss";
+@import "components/exp-code.scss";
+@import "components/languages.scss";
+@import "components/left-bottom";
+@import "components/left-middle";
+@import "components/left-top";
+@import "components/skills";
