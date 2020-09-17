@@ -1,0 +1,20 @@
+{
+  "name": "my-cv-2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "style": "sass --watch src/sass/style.scss src/sass/style.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vladachi8/My-CV-2020.git"
+  },
+  "author": "Vlad Ch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vladachi8/My-CV-2020/issues"
+  },
+  "homepage": "https://github.com/Vladachi8/My-CV-2020#readme"
+}
